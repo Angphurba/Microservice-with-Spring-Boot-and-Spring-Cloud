@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;user&apos; from expression &apos;service.findOne(id)&apos;&#x0D;&#x0A;- Original project: &apos;restful-web-services&apos;&#x0D;&#x0A;- Variable name: &apos;user&apos;&#x0D;&#x0A;- Destination method: &apos;com.in28minutes.rest.webservices.restfulwebservices.user.UserResource.retrieveUser()&apos;&#x0D;&#x0A;- Variable expression: &apos;service.findOne(id)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;user&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;com.in28minutes.rest.webservices.restfulwebservices.user{UserResource.java" name="user" replace="true" selection="902 19" stamp="1556776824308" varType="false" version="1.0"/>
+</session>
